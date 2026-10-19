@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="blender-open-movies" tvg-name="Blender Açýk Filmler" group-title="Canlý - Açýk Lisanslý",Blender Açýk Filmler (7/24)
-https://ireplay.tv/test/blender.m3u8
-#EXTINF:-1 tvg-id="blender-open-movies-hd" tvg-name="Blender Açýk Filmler HD" group-title="Canlý - Açýk Lisanslý",Blender Açýk Filmler HD (1080p)
-https://ireplay.tv/test/hd_blender.m3u8
-#EXTINF:-1 tvg-id="apple-bipbop" tvg-name="Apple Test Yayýný" group-title="Canlý - Test Yayýnlarý",Apple HLS Test Yayýný
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="mux-bbb" tvg-name="Big Buck Bunny HLS" group-title="Canlý - Test Yayýnlarý",Big Buck Bunny (HLS)
+#EXTINF:-1 tvg-id="mux-bbb" tvg-name="Big Buck Bunny HLS" group-title="Demo",Big Buck Bunny (HLS)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="bbb" tvg-name="Big Buck Bunny" group-title="Açýk Lisanslý Filmler",Big Buck Bunny (2008) - CC BY Blender Foundation
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:-1 tvg-id="ed" tvg-name="Elephants Dream" group-title="Açýk Lisanslý Filmler",Elephants Dream (2006) - CC BY Blender Foundation
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-#EXTINF:-1 tvg-id="sintel" tvg-name="Sintel" group-title="Açýk Lisanslý Filmler",Sintel (2010) - CC BY Blender Foundation
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1 tvg-id="tos" tvg-name="Tears of Steel" group-title="Açýk Lisanslý Filmler",Tears of Steel (2012) - CC BY Blender Foundation
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1 tvg-id="apple-bipbop" tvg-name="Apple Test YayÄ±nÄ±" group-title="Demo",Apple HLS Test YayÄ±nÄ±
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
